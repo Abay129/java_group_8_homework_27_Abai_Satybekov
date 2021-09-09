@@ -7,7 +7,7 @@ public class Director {
         this.fullName = fullName;
     }
 
-    public String getfullName() {
+    public String getFullName() {
         return fullName;
     }
 
